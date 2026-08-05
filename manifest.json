@@ -1,0 +1,17 @@
+{
+  "name": "화해중재 갈등분석 도구",
+  "short_name": "갈등분석 도구",
+  "description": "예비중재 이야기로 회복적 질문·인터뷰지·갈등분석보고서·화해중재 합의문을 만드는 도구",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F7F5EF",
+  "theme_color": "#1B3A5C",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
